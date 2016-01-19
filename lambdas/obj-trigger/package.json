@@ -1,0 +1,17 @@
+{
+  "name": "lambdas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "obj-trigger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "aws-sdk": "^2.2.30",
+    "node-rest-client": "^1.5.1",
+    "util": "^0.10.3"
+  }
+}
